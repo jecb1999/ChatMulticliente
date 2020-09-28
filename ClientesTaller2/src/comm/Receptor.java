@@ -32,7 +32,7 @@ public class Receptor extends Thread {
 
 		} catch (IOException e) {
 
-			System.out.println("");;
+			System.out.println("");
 		}
 
 	}
